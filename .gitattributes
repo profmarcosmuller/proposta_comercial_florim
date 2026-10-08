@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+*.woff2 binary
+*.ttf binary
+*.ai binary
+*.pdf binary
+entregas/Apresentacao_Florim.html -diff linguist-generated

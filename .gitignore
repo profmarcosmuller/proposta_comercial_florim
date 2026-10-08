@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-apresentacao/
+scripts/.cache/
+scripts/__pycache__/
+
+# Entregas são geradas pelos comandos do README. Só a apresentação fica no repositório.
+entregas/*
+!entregas/Apresentacao_Florim.html
+
+.DS_Store
+Thumbs.db
+*.log
